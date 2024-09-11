@@ -256,10 +256,10 @@ public class frmpersonas extends javax.swing.JFrame {
         lblDireccion.setText(Direccion);
         lblEdad.setText(Edad);
         
-        txtNombre2.setText("");
-        txtApellido2.setText("");
-        txtDireccion2.setText("");
-        txtEdad2.setText("");
+        txtNombre2.setText("juan");
+        txtApellido2.setText("teran");
+        txtDireccion2.setText("candelaria");
+        txtEdad2.setText("19");
         
     }//GEN-LAST:event_obtenerPersonasActionPerformed
 
